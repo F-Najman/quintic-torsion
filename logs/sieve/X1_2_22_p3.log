@@ -1,0 +1,32 @@
+SETUP N=22 M=2 p=3 genus=16 time=0.360
+CUSPS number=18 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 5, 5 ]
+CUSPFIELDS orbits over Q (degree, F_p-degree): [ <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <5, 5>, <5, 5>, <5, 5>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1> ] ; predicted F_p cusp degrees match model: true
+CC complement degree <= 1: q mod 22 in [ 1, 3, 5, 7, 9, 13, 15, 17, 19, 21 ] ; usable q from list: [ 5, 7, 13 ]
+CC complement degree <= 2: q mod 22 in [ 1, 3, 5, 7, 9, 13, 15, 17, 19, 21 ] ; usable q from list: [ 5, 7, 13 ]
+CC complement degree <= 3: q mod 22 in [ 1, 3, 5, 7, 9, 13, 15, 17, 19, 21 ] ; usable q from list: [ 5, 7, 13 ]
+CC complement degree <= 4: q mod 22 in [ 1, 3, 5, 7, 9, 13, 15, 17, 19, 21 ] ; usable q from list: [ 5, 7, 13 ]
+QLIST all (used when there is no cuspidal part): [ 5, 7, 13 ]
+DEGREES with points of the required type over F_p^d (d=1..5): [ false, false, false, false, true ]  time=754.410
+NONCUSP counts deg 1..5: [ 0, 0, 0, 0, 60 ]  time=754.490
+REPS up to diamond: [ 0, 0, 0, 0, 12 ]  time=843.260
+TYPE [ 1 ]: no divisors
+TYPE [ 2 ]: no divisors
+TYPE [ 1, 1 ]: no divisors
+TYPE [ 3 ]: no divisors
+TYPE [ 2, 1 ]: no divisors
+TYPE [ 1, 1, 1 ]: no divisors
+TYPE [ 4 ]: no divisors
+TYPE [ 3, 1 ]: no divisors
+TYPE [ 2, 2 ]: no divisors
+TYPE [ 2, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1 ]: no divisors
+TYPE [ 5 ]: 12 divisors (up to diamond), qlist=[ 5, 7, 13 ]
+RESULT type=[ 5 ] total=12 survivors=0 time=1132.690
+TYPE [ 4, 1 ]: no divisors
+TYPE [ 3, 2 ]: no divisors
+TYPE [ 3, 1, 1 ]: no divisors
+TYPE [ 2, 2, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1 ]: no divisors
+SUMMARY N=22 M=2 p=3 D=5 shard=0/1 total_survivors=0 time=1132.700
+SIEVE_DONE

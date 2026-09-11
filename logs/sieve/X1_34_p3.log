@@ -1,0 +1,33 @@
+SETUP N=34 M=1 p=3 genus=21 time=0.830
+CUSPS number=18 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 8, 8 ]
+CUSPFIELDS orbits over Q (degree, F_p-degree): [ <8, 8>, <8, 8>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1> ] ; predicted F_p cusp degrees match model: true
+CC complement degree <= 1: q mod 34 in [ 1, 3, 5, 7, 9, 11, 13, 15, 19, 21, 23, 25, 27, 29, 31, 33 ] ; usable q from list: [ 5, 7, 11, 13 ]
+CC complement degree <= 2: q mod 34 in [ 1, 3, 5, 7, 9, 11, 13, 15, 19, 21, 23, 25, 27, 29, 31, 33 ] ; usable q from list: [ 5, 7, 11, 13 ]
+CC complement degree <= 3: q mod 34 in [ 1, 3, 5, 7, 9, 11, 13, 15, 19, 21, 23, 25, 27, 29, 31, 33 ] ; usable q from list: [ 5, 7, 11, 13 ]
+CC complement degree <= 4: q mod 34 in [ 1, 3, 5, 7, 9, 11, 13, 15, 19, 21, 23, 25, 27, 29, 31, 33 ] ; usable q from list: [ 5, 7, 11, 13 ]
+QLIST all (used when there is no cuspidal part): [ 5, 7, 11, 13 ]
+DEGREES with points of the required type over F_p^d (d=1..5): [ false, false, false, true, true ]  time=2.370
+NONCUSP counts deg 1..5: [ 0, 0, 0, 26, 32 ]  time=2.510
+REPS up to diamond: [ 0, 0, 0, 5, 4 ]  time=4.500
+TYPE [ 1 ]: no divisors
+TYPE [ 2 ]: no divisors
+TYPE [ 1, 1 ]: no divisors
+TYPE [ 3 ]: no divisors
+TYPE [ 2, 1 ]: no divisors
+TYPE [ 1, 1, 1 ]: no divisors
+TYPE [ 4 ]: 5 divisors (up to diamond), qlist=[ 5, 7, 11, 13 ]
+RESULT type=[ 4 ] total=5 survivors=0 time=7.020
+TYPE [ 3, 1 ]: no divisors
+TYPE [ 2, 2 ]: no divisors
+TYPE [ 2, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1 ]: no divisors
+TYPE [ 5 ]: 4 divisors (up to diamond), qlist=[ 5, 7, 11, 13 ]
+RESULT type=[ 5 ] total=4 survivors=0 time=11.920
+TYPE [ 4, 1 ]: no divisors
+TYPE [ 3, 2 ]: no divisors
+TYPE [ 3, 1, 1 ]: no divisors
+TYPE [ 2, 2, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1 ]: no divisors
+SUMMARY N=34 M=1 p=3 D=5 shard=0/1 total_survivors=0 time=11.920
+SIEVE_DONE

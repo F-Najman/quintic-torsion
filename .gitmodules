@@ -1,0 +1,6 @@
+[submodule "mdmagma"]
+	path = mdmagma
+	url = https://github.com/koffie/mdmagma
+[submodule "gl2"]
+	path = gl2
+	url = https://github.com/AndrewVSutherland/Magma

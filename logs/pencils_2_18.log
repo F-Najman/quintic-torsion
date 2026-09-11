@@ -1,0 +1,43 @@
+SETUP X_1(2,18): genus 7, 15 Galois orbits of cusps over Q (degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 3 ]), time 0.980
+PRIME 5: Cl(X_Fp) invariants [ 6, 84, 252, 0 ], image of ClCusp_Q: [ 2, 42, 126 ], time 3.120
+PRIME 5: places of degree 1..5: [ 9, 3, 51, 153, 612 ]
+PRIME 5: type [ 5 ] done, 612 divisors so far, 612 distinct classes, time 11.960
+PRIME 5: type [ 4, 1 ] done, 1989 divisors so far, 1935 distinct classes, time 11.960
+PRIME 5: type [ 3, 2 ] done, 2142 divisors so far, 2088 distinct classes, time 11.960
+PRIME 5: type [ 3, 1, 1 ] done, 4437 divisors so far, 4383 distinct classes, time 11.970
+PRIME 5: type [ 2, 2, 1 ] done, 4491 divisors so far, 4437 distinct classes, time 11.970
+PRIME 5: type [ 2, 1, 1, 1 ] done, 4986 divisors so far, 4932 distinct classes, time 11.970
+PRIME 5: type [ 1, 1, 1, 1, 1 ] done, 6273 divisors so far, 6138 distinct classes, time 11.980
+J(Q) = ClCusp_Q parametrised: order 10584, invariants [ 2, 42, 126 ] (compare DEHMZ Table 3)
+CUSPIDAL: 1980 effective rational cuspidal divisors of degree 5 in 1926 distinct classes; all are candidates: true
+CANDIDATES_NONCUSPIDAL: 18 candidate classes remain after removing the cuspidal classes (these are lifted to Q)
+CANDIDATES: 1944 classes of J(Q) whose reduction is the class of an effective degree-5 divisor for all p in [ 5 ], time 12.020
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+MOVING_CUSPIDAL_CLASS rational_cuspidal_members=3 finite_field_members=6 fixed_degree=1
+ALL_1944_CLASSES_CHECKED moving_classes=27 all_have_a_fixed_rational_cusp
+NO_DEGREE_FIVE_RATIONAL_FUNCTION_INDEPENDENTLY_VERIFIED

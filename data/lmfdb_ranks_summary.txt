@@ -1,0 +1,41 @@
+N=  26 genus=   10 check=OK  rk>0 dim=  0  forms: -
+N=  27 genus=   13 check=OK  rk>0 dim=  0  forms: -
+N=  28 genus=   10 check=OK  rk>0 dim=  0  forms: -
+N=  30 genus=    9 check=OK  rk>0 dim=  0  forms: -
+N=  32 genus=   17 check=OK  rk>0 dim=  0  forms: -
+N=  33 genus=   21 check=OK  rk>0 dim=  0  forms: -
+N=  34 genus=   21 check=OK  rk>0 dim=  0  forms: -
+N=  35 genus=   25 check=OK  rk>0 dim=  0  forms: -
+N=  36 genus=   17 check=OK  rk>0 dim=  0  forms: -
+N=  38 genus=   28 check=OK  rk>0 dim=  0  forms: -
+N=  39 genus=   33 check=OK  rk>0 dim=  0  forms: -
+N=  40 genus=   25 check=OK  rk>0 dim=  0  forms: -
+N=  42 genus=   25 check=OK  rk>0 dim=  0  forms: -
+N=  44 genus=   36 check=OK  rk>0 dim=  0  forms: -
+N=  45 genus=   41 check=OK  rk>0 dim=  0  forms: -
+N=  48 genus=   37 check=OK  rk>0 dim=  0  forms: -
+N=  49 genus=   69 check=OK  rk>0 dim=  0  forms: -
+N=  50 genus=   48 check=OK  rk>0 dim=  0  forms: -
+N=  51 genus=   65 check=OK  rk>0 dim=  0  forms: -
+N=  55 genus=   81 check=OK  rk>0 dim=  0  forms: -
+N=  57 genus=   85 check=OK  rk>0 dim=  1  forms: 57.2.a.a(chi ord 1, dim 1, rk 1)
+N=  63 genus=   97 check=OK  rk>0 dim=  2  forms: 63.2.s.a(chi ord 6, dim 2, rk 1)
+N=  65 genus=  121 check=OK  rk>0 dim=  1  forms: 65.2.a.a(chi ord 1, dim 1, rk 1)
+N=  75 genus=  145 check=OK  rk>0 dim=  0  forms: -
+N=  77 genus=  181 check=OK  rk>0 dim=  1  forms: 77.2.a.a(chi ord 1, dim 1, rk 1)
+N=  85 genus=  225 check=OK  rk>0 dim=  4  forms: 85.2.a.b(chi ord 1, dim 2, rk 1), 85.2.j.a(chi ord 4, dim 2, rk 1)
+N=  91 genus=  265 check=OK  rk>0 dim=  6  forms: 91.2.a.a(chi ord 1, dim 1, rk 1), 91.2.a.b(chi ord 1, dim 1, rk 1), 91.2.g.a(chi ord 3, dim 2, rk 1), 91.2.u.a(chi ord 6, dim 2, rk 1)
+N=  95 genus=  289 check=OK  rk>0 dim=  4  forms: 95.2.l.a(chi ord 12, dim 4, rk 1)
+N= 119 genus=  481 check=OK  rk>0 dim=  0  forms: -
+N= 121 genus=  526 check=OK  rk>0 dim=  1  forms: 121.2.a.b(chi ord 1, dim 1, rk 1)
+N= 125 genus=  536 check=OK  rk>0 dim=  2  forms: 125.2.a.a(chi ord 1, dim 2, rk 1)
+N= 133 genus=  613 check=OK  rk>0 dim=  8  forms: 133.2.a.a(chi ord 1, dim 2, rk 1), 133.2.a.b(chi ord 1, dim 2, rk 1), 133.2.f.a(chi ord 3, dim 2, rk 1), 133.2.s.a(chi ord 6, dim 2, rk 1)
+N= 143 genus=  721 check=OK  rk>0 dim=  5  forms: 143.2.a.a(chi ord 1, dim 1, rk 1), 143.2.h.a(chi ord 5, dim 4, rk 1)
+N= 169 genus= 1070 check=OK  rk>0 dim=  3  forms: 169.2.a.b(chi ord 1, dim 3, rk 1)
+N= 187 genus= 1281 check=OK  rk>0 dim=  9  forms: 187.2.a.c(chi ord 1, dim 2, rk 1), 187.2.a.e(chi ord 1, dim 3, rk 1), 187.2.g.a(chi ord 5, dim 4, rk 1)
+N= 209 genus= 1621 check=OK  rk>0 dim=  7  forms: 209.2.a.a(chi ord 1, dim 1, rk 1), 209.2.a.b(chi ord 1, dim 2, rk 1), 209.2.f.a(chi ord 5, dim 4, rk 1)
+N= 221 genus= 1825 check=OK  rk>0 dim=  5  forms: 221.2.a.c(chi ord 1, dim 2, rk 1), 221.2.a.f(chi ord 1, dim 3, rk 1)
+N= 247 genus= 2305 check=OK  rk>0 dim= 15  forms: 247.2.a.b(chi ord 1, dim 3, rk 1), 247.2.a.c(chi ord 1, dim 4, rk 1), 247.2.be.a(chi ord 12, dim 4, rk 1), 247.2.be.b(chi ord 12, dim 4, rk 1)
+N= 289 genus= 3269 check=OK  rk>0 dim=  6  forms: 289.2.a.a(chi ord 1, dim 1, rk 1), 289.2.a.b(chi ord 1, dim 2, rk 1), 289.2.a.d(chi ord 1, dim 3, rk 1)
+N= 323 genus= 4033 check=OK  rk>0 dim= 13  forms: 323.2.a.c(chi ord 1, dim 4, rk 1), 323.2.a.d(chi ord 1, dim 5, rk 1), 323.2.k.a(chi ord 8, dim 4, rk 1)
+N= 361 genus= 5164 check=OK  rk>0 dim=  8  forms: 361.2.a.a(chi ord 1, dim 1, rk 1), 361.2.a.g(chi ord 1, dim 3, rk 1), 361.2.a.i(chi ord 1, dim 4, rk 1)

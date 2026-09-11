@@ -1,0 +1,18 @@
+GL2COUNT X_1(1,26) p=7: genus 10 | #Y(F_{p^d}) = [ 0, 84, 372, 2496, 16560 ] | reference = [ 0, 84, 372, 2496, 16560 ] | agree
+GL2COUNT X_1(1,28) p=3: genus 10 | #Y(F_{p^d}) = [ 0, 0, 6, 48, 270 ] | reference = [ 0, 0, 6, 48, 270 ] | agree
+GL2COUNT X_1(1,30) p=7: genus 9 | #Y(F_{p^d}) = [ 0, 40, 384, 2448, 15840 ] | reference = [ 0, 40, 384, 2448, 15840 ] | agree
+GL2COUNT X_1(1,32) p=3: genus 17 | #Y(F_{p^d}) = [ 0, 0, 24, 32, 80 ] | reference = [ 0, 0, 24, 32, 80 ] | agree
+GL2COUNT X_1(1,33) p=7: genus 21 | #Y(F_{p^d}) = [ 0, 0, 120, 2640, 18220 ] | reference = [ 0, 0, 120, 2640, 18220 ] | agree
+GL2COUNT X_1(1,34) p=3: genus 21 | #Y(F_{p^d}) = [ 0, 0, 0, 104, 160 ] | reference = [ 0, 0, 0, 104, 160 ] | agree
+GL2COUNT X_1(1,38) p=3: genus 28 | #Y(F_{p^d}) = [ 0, 0, 9, 0, 360 ] | reference = [ 0, 0, 9, 0, 360 ] | agree
+GL2COUNT X_1(1,42) p=5: genus 25 | #Y(F_{p^d}) = [ 0, 0, 12, 732, 3240 ] | reference = [ 0, 0, 12, 732, 3240 ] | agree
+GL2COUNT X_1(1,45) p=7: genus 41 | #Y(F_{p^d}) = [ 0, 48, 360, 1440, 16380 ] | reference = [ 0, 48, 360, 1440, 16380 ] | agree
+GL2COUNT X_1(1,57) p=5: genus 85 | #Y(F_{p^d}) = [ 0, 0, 216, 324, 3780 ] | reference = [ 0, 0, 216, 324, 3780 ] | agree
+GL2COUNT X_1(1,63) p=5: genus 97 | #Y(F_{p^d}) = [ 0, 0, 36, 432, 3600 ] | reference = [ 0, 0, 36, 432, 3600 ] | agree
+GL2COUNT X_1(1,65) p=3: genus 121 | #Y(F_{p^d}) = [ 0, 0, 0, 48, 480 ] | reference = [ 0, 0, 0, 48, 480 ] | agree
+GL2COUNT X_1(2,18) p=5: genus 7 | #Y(F_{p^d}) = [ 0, 0, 144, 612, 3060 ] | reference = [ 0, 0, 144, 612, 3060 ] | agree
+GL2COUNT X_1(2,20) p=3: genus 9 | #Y(F_{p^d}) = [ 0, 0, 0, 160, 240 ] | reference = [ 0, 0, 0, 160, 240 ] | agree
+GL2COUNT X_1(2,20) p=7: genus 9 | #Y(F_{p^d}) = [ 0, 32, 384, 2848, 16080 ] | reference = [ 0, 32, 384, 2848, 16080 ] | agree
+GL2COUNT X_1(2,22) p=3: genus 16 | #Y(F_{p^d}) = [ 0, 0, 0, 0, 300 ] | reference = [ 0, 0, 0, 0, 300 ] | agree
+GL2COUNT X_1(2,24) p=5: genus 13 | #Y(F_{p^d}) = [ 0, 0, 48, 384, 3360 ] | reference = [ 0, 0, 48, 384, 3360 ] | agree
+GL2_POINT_COUNTS_DONE all_agree=true

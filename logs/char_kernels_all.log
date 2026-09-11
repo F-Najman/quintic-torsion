@@ -1,0 +1,48 @@
+N=85 orbit 85.j: Conrey indices [ 4, 64 ], order 4, #ker=16, chi(-1)=1
+N=85: joint kernel order 16; arXiv quartic choice a=3 (=3 mod N) in joint kernel: false, ord<a>=16
+N=85: a in joint kernel with ord>5 (for d=5): [ <2, 8>, <8, 8>, <32, 8>, <42, 8>, <43, 8>, <53, 8>, <77, 8>, <83, 8> ]
+N=85: a in joint kernel with ord not dividing 4 (for d=4): first few [ <2, 8>, <8, 8>, <32, 8>, <42, 8>, <43, 8>, <53, 8>, <77, 8>, <83, 8> ] (total 8)
+
+N=91 orbit 91.g: Conrey indices [ 9, 81 ], order 3, #ker=24, chi(-1)=1
+N=91 orbit 91.u: Conrey indices [ 30, 88 ], order 6, #ker=12, chi(-1)=1
+N=91: joint kernel order 12; arXiv quartic choice a=3 (=3 mod N) in joint kernel: true, ord<a>=6
+N=91: a in joint kernel with ord>5 (for d=5): [ <3, 6>, <30, 6>, <61, 6>, <88, 6> ]
+N=91: a in joint kernel with ord not dividing 4 (for d=4): first few [ <3, 6>, <9, 3>, <10, 3>, <30, 6>, <61, 6>, <81, 3>, <82, 3>, <88, 6> ] (total 8)
+
+N=95 orbit 95.l: Conrey indices [ 8, 12, 27, 88 ], order 12, #ker=6, chi(-1)=1
+N=95: joint kernel order 6; arXiv quartic choice a=531441 (=11 mod N) in joint kernel: true, ord<a>=3
+N=95: a in joint kernel with ord>5 (for d=5): []
+N=95: a in joint kernel with ord not dividing 4 (for d=4): first few [ <11, 3>, <26, 3>, <69, 3>, <84, 3> ] (total 4)
+
+N=133 orbit 133.f: Conrey indices [ 39, 58 ], order 3, #ker=36, chi(-1)=1
+N=133 orbit 133.s: Conrey indices [ 31, 103 ], order 6, #ker=18, chi(-1)=1
+N=133: joint kernel order 6; arXiv quartic choice a=729 (=64 mod N) in joint kernel: true, ord<a>=3
+N=133: a in joint kernel with ord>5 (for d=5): []
+N=133: a in joint kernel with ord not dividing 4 (for d=4): first few [ <27, 3>, <64, 3>, <69, 3>, <106, 3> ] (total 4)
+
+N=143 orbit 143.h: Conrey indices [ 14, 27, 53, 92 ], order 5, #ker=24, chi(-1)=1
+N=143: joint kernel order 24; arXiv quartic choice a=67 (=67 mod N) in joint kernel: true, ord<a>=12
+N=143: a in joint kernel with ord>5 (for d=5): [ <23, 6>, <32, 12>, <45, 12>, <54, 12>, <56, 6>, <67, 12>, <76, 12>, <87, 6>, <89, 12>, <98, 12>, <111, 12>, <120, 6> ]
+N=143: a in joint kernel with ord not dividing 4 (for d=4): first few [ <10, 3>, <23, 6>, <32, 12>, <43, 3>, <45, 12>, <54, 12>, <56, 6>, <67, 12> ] (total 16)
+
+N=187 orbit 187.g: Conrey indices [ 69, 86, 103, 137 ], order 5, #ker=32, chi(-1)=1
+N=187: joint kernel order 32; arXiv quartic choice a=122 (=122 mod N) in joint kernel: true, ord<a>=16
+N=187: a in joint kernel with ord>5 (for d=5): [ <10, 16>, <12, 16>, <23, 16>, <32, 8>, <43, 8>, <45, 16>, <54, 16>, <56, 16>, <65, 16>, <76, 8>, <78, 16>, <87, 8> ]
+N=187: a in joint kernel with ord not dividing 4 (for d=4): first few [ <10, 16>, <12, 16>, <23, 16>, <32, 8>, <43, 8>, <45, 16>, <54, 16>, <56, 16> ] (total 24)
+
+N=209 orbit 209.f: Conrey indices [ 20, 58, 115, 191 ], order 5, #ker=36, chi(-1)=1
+N=209: joint kernel order 36; arXiv quartic choice a=243 (=34 mod N) in joint kernel: true, ord<a>=18
+N=209: a in joint kernel with ord>5 (for d=5): [ <10, 9>, <12, 6>, <21, 9>, <23, 9>, <32, 9>, <34, 18>, <43, 18>, <54, 18>, <67, 18>, <78, 18>, <87, 6>, <89, 18> ]
+N=209: a in joint kernel with ord not dividing 4 (for d=4): first few [ <10, 9>, <12, 6>, <21, 9>, <23, 9>, <32, 9>, <34, 18>, <43, 18>, <45, 3> ] (total 32)
+
+N=247 orbit 247.be: Conrey indices [ 8, 31, 122, 164 ], order 12, #ker=18, chi(-1)=1
+N=247: joint kernel order 18; arXiv quartic choice a=531441 (=144 mod N) in joint kernel: true, ord<a>=3
+N=247: a in joint kernel with ord>5 (for d=5): []
+N=247: a in joint kernel with ord not dividing 4 (for d=4): first few [ <12, 3>, <56, 3>, <68, 3>, <69, 3>, <75, 3>, <87, 3>, <88, 3>, <103, 3> ] (total 16)
+
+N=323 orbit 323.k: Conrey indices [ 77, 134, 172, 229 ], order 8, #ker=36, chi(-1)=1
+N=323: joint kernel order 36; arXiv quartic choice a=6561 (=101 mod N) in joint kernel: true, ord<a>=18
+N=323: a in joint kernel with ord>5 (for d=5): [ <16, 18>, <33, 9>, <35, 9>, <52, 18>, <67, 9>, <69, 6>, <86, 18>, <101, 18>, <103, 6>, <118, 18>, <120, 9>, <135, 9> ]
+N=323: a in joint kernel with ord not dividing 4 (for d=4): first few [ <16, 18>, <33, 9>, <35, 9>, <50, 3>, <52, 18>, <67, 9>, <69, 6>, <84, 3> ] (total 32)
+
+CHARKERNELS_DONE

@@ -1,0 +1,18 @@
+SETUP X_1(28): 15 Galois orbits of cusps over Q, time 85.240
+PRIME 3: genus 10, Cl(X_Fp) invariants [ 4, 4, 24, 936, 0 ], image of ClCusp_Q: [ 2, 4, 12, 936 ], time 96.530
+PRIME 3: places of degree 1..5: [ 9, 3, 5, 12, 54 ]
+PRIME 3: type [ 5 ] done, 54 divisors so far, 54 distinct classes, time 96.570
+PRIME 3: type [ 4, 1 ] done, 162 divisors so far, 162 distinct classes, time 96.570
+PRIME 3: type [ 3, 2 ] done, 177 divisors so far, 177 distinct classes, time 96.570
+PRIME 3: type [ 3, 1, 1 ] done, 402 divisors so far, 402 distinct classes, time 96.570
+PRIME 3: type [ 2, 2, 1 ] done, 456 divisors so far, 456 distinct classes, time 96.570
+PRIME 3: type [ 2, 1, 1, 1 ] done, 951 divisors so far, 951 distinct classes, time 96.580
+PRIME 3: type [ 1, 1, 1, 1, 1 ] done, 2238 divisors so far, 2238 distinct classes, time 96.590
+J(Q) = ClCusp_Q parametrised: order 89856, invariants [ 2, 4, 12, 936 ] (DEHMZ table for comparison)
+CUSPIDAL: 1884 effective rational cuspidal divisors of degree 5 in 1884 distinct classes; all are candidates: true
+KNOWN points: 1 orbits, 6 distinct classes of their diamond translates; all among the candidates: true
+MATCHED_KNOWN: after removing the classes of the known points, 0 non-cuspidal candidate classes remain
+CANDIDATES_NONCUSPIDAL: 0 candidate classes remain after removing the cuspidal classes (these are lifted to Q)
+CANDIDATES: 1890 classes of J(Q) whose reduction is the class of an effective degree-5 divisor for all p in [ 3 ], time 96.710
+RESULT N=28 D=5: 1890 candidate classes; 0 with no effective divisor (false positives), 0 all-cuspidal effective divisors, 0 effective divisors with a non-cuspidal component; time 96.710
+DIRECT_DONE

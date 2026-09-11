@@ -1,0 +1,56 @@
+======== 1. The curves with a point of order 28 and of order 30 ========
+
+--- N = 28, K = Q(al) with x^5 - x^4 - 2*x^3 - x^2 + 2*x + 2 = 0 ---
+  (b,c) agree with the paper : true
+  disc(O_K)             : -17348 = [ <2, 2>, <4337, 1> ]
+  signature, h, |Gal|   : 3, 1, 120
+  order of P = (0,0)    : 28   (expected 28)
+  E(K)_tors             : [ 28 ]
+  deg Q(j(E))           : 5 ;  CM: false
+  conductor norm        : 16 = [ <2, 4> ]
+
+--- N = 30, K = Q(al) with x^5 + x^4 - 3*x^3 + 3*x + 1 = 0 ---
+  (b,c) agree with the paper : true
+  disc(O_K)             : -10407 = [ <3, 1>, <3469, 1> ]
+  signature, h, |Gal|   : 3, 1, 120
+  order of P = (0,0)    : 30   (expected 30)
+  E(K)_tors             : [ 30 ]
+  deg Q(j(E))           : 5 ;  CM: false
+  conductor norm        : 33 = [ <3, 1>, <11, 1> ]
+
+--- N = 30, K = Q(al) with x^5 + x^4 - 7*x^3 + x^2 + 12*x + 3 = 0 ---
+  disc(O_K)             : -10407 = [ <3, 1>, <3469, 1> ]
+  signature, h, |Gal|   : 3, 1, 120
+  order of P = (0,0)    : 30   (expected 30)
+  E(K)_tors             : [ 30 ]
+  deg Q(j(E))           : 5 ;  CM: false
+  conductor norm        : 33 = [ <3, 1>, <11, 1> ]
+
+  the two fields of level 30 are isomorphic: true
+  (b,c) of the second level-30 point agree with the paper: true
+  second curve realised over the same field, torsion [ 30 ], P of order 30
+  E2 and E3 are K-isomorphic               : false
+  E2 and E3 are 2-isogenous over K         : true
+
+======== 2. The curve with torsion Z/2 x Z/18 ========
+  defining polynomial   : x^5 - 2*x^4 + 2*x^3 - 3*x^2 - x + 4
+  disc(O_K)             : -34779 = [ <3, 1>, <11593, 1> ]
+  signature, h, |Gal|   : 3, 1, 120
+  order of P, order of Q: 2, 18
+  E(K)_tors             : [ 2, 18 ]
+  deg Q(j(E))           : 5 ;  CM: false
+  j(E)                  : 1/7077888*(211276364773*w^4 - 826998352166*w^3 + 1281574166098*w^2 - 1967592662471*w + 1840568058959)
+  min poly of j(E)      : x^5 - 5358190504483/7077888*x^4 + 6142426326903216601/191102976*x^3 - 10637527089413694781373/31850496*x^2 + 20996209035044656887145021/15925248*x - 344261640807789486734825140969/191102976
+  conductor norm        : 6 = [ <2, 1>, <3, 1> ]
+  a-invariants of a global minimal model: [
+2*w^4 - w^3 + 2*w^2 - 2*w - 5,
+-367*w^4 + 1088*w^3 - 1674*w^2 + 2576*w - 1858,
+25*w^4 - 11*w^3 + 33*w^2 - 24*w - 64,
+586556*w^4 - 1669532*w^3 + 2588266*w^2 - 3953079*w + 2764273,
+-84205*w^4 + 245303*w^3 - 379063*w^2 + 580979*w - 414347
+]
+  E/<(0,0)> has torsion [ 18 ] ; a point of order 36? false
+  E/<(1/3*(467*w^4 - 1322*w^3 + 2046*w^2 - 3121*w + 2169),0)> has torsion [ 18 ] ; a point of order 36? false
+  E/<(1/3*(473*w^4 - 1346*w^3 + 2082*w^2 - 3175*w + 2220),0)> has torsion [ 18 ] ; a point of order 36? false
+
+ALL CHECKS PASSED

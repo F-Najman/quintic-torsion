@@ -1,0 +1,7 @@
+COUNT curve=X_1(1,28) p=5
+YCOUNT d=1  #Y(F_{5^1}) = 0   time=0.000
+YCOUNT d=2  #Y(F_{5^2}) = 24   time=0.010
+YCOUNT d=3  #Y(F_{5^3}) = 144   time=0.080
+YCOUNT d=4  #Y(F_{5^4}) = 360   time=0.470
+YCOUNT d=5  #Y(F_{5^5}) = 2700   time=6.180
+COUNT_DONE

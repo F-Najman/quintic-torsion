@@ -1,0 +1,636 @@
+{
+ "26": {
+  "genus_formula": 10,
+  "dim_sum": 10,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "27": {
+  "genus_formula": 13,
+  "dim_sum": 13,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "28": {
+  "genus_formula": 10,
+  "dim_sum": 10,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "30": {
+  "genus_formula": 9,
+  "dim_sum": 9,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "32": {
+  "genus_formula": 17,
+  "dim_sum": 17,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "33": {
+  "genus_formula": 21,
+  "dim_sum": 21,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "34": {
+  "genus_formula": 21,
+  "dim_sum": 21,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "35": {
+  "genus_formula": 25,
+  "dim_sum": 25,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "36": {
+  "genus_formula": 17,
+  "dim_sum": 17,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "38": {
+  "genus_formula": 28,
+  "dim_sum": 28,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "39": {
+  "genus_formula": 33,
+  "dim_sum": 33,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "40": {
+  "genus_formula": 25,
+  "dim_sum": 25,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "42": {
+  "genus_formula": 25,
+  "dim_sum": 25,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "44": {
+  "genus_formula": 36,
+  "dim_sum": 36,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "45": {
+  "genus_formula": 41,
+  "dim_sum": 41,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "48": {
+  "genus_formula": 37,
+  "dim_sum": 37,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "50": {
+  "genus_formula": 48,
+  "dim_sum": 48,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "57": {
+  "genus_formula": 85,
+  "dim_sum": 85,
+  "check": "OK",
+  "dim_positive_rank": 1,
+  "positive_rank_forms": [
+   [
+    "57.2.a.a",
+    1,
+    1,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "63": {
+  "genus_formula": 97,
+  "dim_sum": 97,
+  "check": "OK",
+  "dim_positive_rank": 2,
+  "positive_rank_forms": [
+   [
+    "63.2.s.a",
+    6,
+    2,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "65": {
+  "genus_formula": 121,
+  "dim_sum": 121,
+  "check": "OK",
+  "dim_positive_rank": 1,
+  "positive_rank_forms": [
+   [
+    "65.2.a.a",
+    1,
+    1,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "77": {
+  "genus_formula": 181,
+  "dim_sum": 181,
+  "check": "OK",
+  "dim_positive_rank": 1,
+  "positive_rank_forms": [
+   [
+    "77.2.a.a",
+    1,
+    1,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "85": {
+  "genus_formula": 225,
+  "dim_sum": 225,
+  "check": "OK",
+  "dim_positive_rank": 4,
+  "positive_rank_forms": [
+   [
+    "85.2.a.b",
+    1,
+    2,
+    1,
+    1
+   ],
+   [
+    "85.2.j.a",
+    4,
+    2,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "91": {
+  "genus_formula": 265,
+  "dim_sum": 265,
+  "check": "OK",
+  "dim_positive_rank": 6,
+  "positive_rank_forms": [
+   [
+    "91.2.a.a",
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    "91.2.a.b",
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    "91.2.g.a",
+    3,
+    2,
+    1,
+    1
+   ],
+   [
+    "91.2.u.a",
+    6,
+    2,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "121": {
+  "genus_formula": 526,
+  "dim_sum": 526,
+  "check": "OK",
+  "dim_positive_rank": 1,
+  "positive_rank_forms": [
+   [
+    "121.2.a.b",
+    1,
+    1,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "143": {
+  "genus_formula": 721,
+  "dim_sum": 721,
+  "check": "OK",
+  "dim_positive_rank": 5,
+  "positive_rank_forms": [
+   [
+    "143.2.a.a",
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    "143.2.h.a",
+    5,
+    4,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "169": {
+  "genus_formula": 1070,
+  "dim_sum": 1070,
+  "check": "OK",
+  "dim_positive_rank": 3,
+  "positive_rank_forms": [
+   [
+    "169.2.a.b",
+    1,
+    3,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "187": {
+  "genus_formula": 1281,
+  "dim_sum": 1281,
+  "check": "OK",
+  "dim_positive_rank": 9,
+  "positive_rank_forms": [
+   [
+    "187.2.a.c",
+    1,
+    2,
+    1,
+    1
+   ],
+   [
+    "187.2.a.e",
+    1,
+    3,
+    1,
+    1
+   ],
+   [
+    "187.2.g.a",
+    5,
+    4,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "221": {
+  "genus_formula": 1825,
+  "dim_sum": 1825,
+  "check": "OK",
+  "dim_positive_rank": 5,
+  "positive_rank_forms": [
+   [
+    "221.2.a.c",
+    1,
+    2,
+    1,
+    1
+   ],
+   [
+    "221.2.a.f",
+    1,
+    3,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "289": {
+  "genus_formula": 3269,
+  "dim_sum": 3269,
+  "check": "OK",
+  "dim_positive_rank": 6,
+  "positive_rank_forms": [
+   [
+    "289.2.a.a",
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    "289.2.a.b",
+    1,
+    2,
+    1,
+    1
+   ],
+   [
+    "289.2.a.d",
+    1,
+    3,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "49": {
+  "genus_formula": 69,
+  "dim_sum": 69,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "51": {
+  "genus_formula": 65,
+  "dim_sum": 65,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "55": {
+  "genus_formula": 81,
+  "dim_sum": 81,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "75": {
+  "genus_formula": 145,
+  "dim_sum": 145,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "95": {
+  "genus_formula": 289,
+  "dim_sum": 289,
+  "check": "OK",
+  "dim_positive_rank": 4,
+  "positive_rank_forms": [
+   [
+    "95.2.l.a",
+    12,
+    4,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "119": {
+  "genus_formula": 481,
+  "dim_sum": 481,
+  "check": "OK",
+  "dim_positive_rank": 0,
+  "positive_rank_forms": [],
+  "unproved": []
+ },
+ "125": {
+  "genus_formula": 536,
+  "dim_sum": 536,
+  "check": "OK",
+  "dim_positive_rank": 2,
+  "positive_rank_forms": [
+   [
+    "125.2.a.a",
+    1,
+    2,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "133": {
+  "genus_formula": 613,
+  "dim_sum": 613,
+  "check": "OK",
+  "dim_positive_rank": 8,
+  "positive_rank_forms": [
+   [
+    "133.2.a.a",
+    1,
+    2,
+    1,
+    1
+   ],
+   [
+    "133.2.a.b",
+    1,
+    2,
+    1,
+    1
+   ],
+   [
+    "133.2.f.a",
+    3,
+    2,
+    1,
+    1
+   ],
+   [
+    "133.2.s.a",
+    6,
+    2,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "209": {
+  "genus_formula": 1621,
+  "dim_sum": 1621,
+  "check": "OK",
+  "dim_positive_rank": 7,
+  "positive_rank_forms": [
+   [
+    "209.2.a.a",
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    "209.2.a.b",
+    1,
+    2,
+    1,
+    1
+   ],
+   [
+    "209.2.f.a",
+    5,
+    4,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "247": {
+  "genus_formula": 2305,
+  "dim_sum": 2305,
+  "check": "OK",
+  "dim_positive_rank": 15,
+  "positive_rank_forms": [
+   [
+    "247.2.a.b",
+    1,
+    3,
+    1,
+    1
+   ],
+   [
+    "247.2.a.c",
+    1,
+    4,
+    1,
+    1
+   ],
+   [
+    "247.2.be.a",
+    12,
+    4,
+    1,
+    1
+   ],
+   [
+    "247.2.be.b",
+    12,
+    4,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "323": {
+  "genus_formula": 4033,
+  "dim_sum": 4033,
+  "check": "OK",
+  "dim_positive_rank": 13,
+  "positive_rank_forms": [
+   [
+    "323.2.a.c",
+    1,
+    4,
+    1,
+    1
+   ],
+   [
+    "323.2.a.d",
+    1,
+    5,
+    1,
+    1
+   ],
+   [
+    "323.2.k.a",
+    8,
+    4,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ },
+ "361": {
+  "genus_formula": 5164,
+  "dim_sum": 5164,
+  "check": "OK",
+  "dim_positive_rank": 8,
+  "positive_rank_forms": [
+   [
+    "361.2.a.a",
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    "361.2.a.g",
+    1,
+    3,
+    1,
+    1
+   ],
+   [
+    "361.2.a.i",
+    1,
+    4,
+    1,
+    1
+   ]
+  ],
+  "unproved": []
+ }
+}

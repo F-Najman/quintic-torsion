@@ -1,0 +1,16 @@
+TESTORB N=26 p=7 deg 2: 42 places, fast reps 8 (0.050 s), mdmagma reps 8 (0.080 s), orbits disjoint true, cover true
+TESTORB N=26 p=7 deg 3: 124 places, fast reps 22 (0.140 s), mdmagma reps 22 (0.130 s), orbits disjoint true, cover true
+TESTORB N=26 p=7 deg 4: 603 places, fast reps 103 (0.720 s), mdmagma reps 103 (0.940 s), orbits disjoint true, cover true
+TESTORB N=28 p=5 deg 2: 12 places, fast reps 2 (0.010 s), mdmagma reps 2 (0.020 s), orbits disjoint true, cover true
+TESTORB N=28 p=5 deg 3: 48 places, fast reps 8 (0.050 s), mdmagma reps 8 (0.070 s), orbits disjoint true, cover true
+TESTORB N=28 p=5 deg 4: 84 places, fast reps 16 (0.060 s), mdmagma reps 16 (0.140 s), orbits disjoint true, cover true
+TESTORB N=28 p=5 deg 5: 540 places, fast reps 90 (0.580 s), mdmagma reps 90 (0.980 s), orbits disjoint true, cover true
+TESTORB N=28 p=3 deg 3: 2 places, fast reps 1 (0.000 s), mdmagma reps 1 (0.010 s), orbits disjoint true, cover true
+TESTORB N=28 p=3 deg 4: 12 places, fast reps 2 (0.010 s), mdmagma reps 2 (0.030 s), orbits disjoint true, cover true
+TESTORB N=28 p=3 deg 5: 54 places, fast reps 9 (0.040 s), mdmagma reps 9 (0.070 s), orbits disjoint true, cover true
+TESTORB N=33 p=7 deg 3: 40 places, fast reps 4 (0.050 s), mdmagma reps 4 (2.070 s), orbits disjoint true, cover true
+TESTORB N=33 p=7 deg 4: 660 places, fast reps 68 (1.080 s), mdmagma reps 68 (23.590 s), orbits disjoint true, cover true
+TESTORB N=30 p=7 deg 2: 20 places, fast reps 6 (0.010 s), mdmagma reps 6 (0.050 s), orbits disjoint true, cover true
+TESTORB N=30 p=7 deg 3: 128 places, fast reps 32 (0.120 s), mdmagma reps 32 (0.150 s), orbits disjoint true, cover true
+TESTORB N=30 p=7 deg 4: 602 places, fast reps 154 (0.580 s), mdmagma reps 154 (0.990 s), orbits disjoint true, cover true
+TESTORB_DONE

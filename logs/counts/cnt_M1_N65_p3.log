@@ -1,0 +1,7 @@
+COUNT curve=X_1(1,65) p=3
+YCOUNT d=1  #Y(F_{3^1}) = 0   time=0.000
+YCOUNT d=2  #Y(F_{3^2}) = 0   time=0.010
+YCOUNT d=3  #Y(F_{3^3}) = 0   time=0.020
+YCOUNT d=4  #Y(F_{3^4}) = 48   time=0.050
+YCOUNT d=5  #Y(F_{3^5}) = 480   time=0.160
+COUNT_DONE

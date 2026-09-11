@@ -1,0 +1,35 @@
+SETUP N=42 M=1 p=5 genus=25 time=5.290
+CUSPS number=24 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 6, 6 ]
+CUSPFIELDS orbits over Q (degree, F_p-degree): [ <6, 3>, <6, 3>, <6, 6>, <6, 6>, <2, 2>, <2, 2>, <2, 2>, <2, 2>, <2, 2>, <2, 2>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1> ] ; predicted F_p cusp degrees match model: true
+CC complement degree <= 1: q mod 42 in [ 1, 5, 11, 13, 17, 19, 23, 25, 29, 31, 37, 41 ] ; usable q from list: [ 11, 13, 17, 19, 23, 29 ]
+CC complement degree <= 2: q mod 42 in [ 1, 5, 11, 13, 17, 19, 23, 25, 29, 31, 37, 41 ] ; usable q from list: [ 11, 13, 17, 19, 23, 29 ]
+CC complement degree <= 3: q mod 42 in [ 1, 5, 17, 25, 37, 41 ] ; usable q from list: [ 17 ]
+CC complement degree <= 4: q mod 42 in [ 1, 5, 17, 25, 37, 41 ] ; usable q from list: [ 17 ]
+QLIST all (used when there is no cuspidal part): [ 11, 13, 17, 19, 23, 29 ]
+DEGREES with points of the required type over F_p^d (d=1..5): [ false, false, true, true, true ]  time=15.990
+NONCUSP counts deg 1..5: [ 0, 0, 4, 183, 648 ]  time=20.180
+REPS up to diamond: [ 0, 0, 2, 33, 108 ]  time=151.540
+TYPE [ 1 ]: no divisors
+TYPE [ 2 ]: no divisors
+TYPE [ 1, 1 ]: no divisors
+TYPE [ 3 ]: 2 divisors (up to diamond), qlist=[ 11, 13, 17, 19, 23, 29 ]
+RESULT type=[ 3 ] total=2 survivors=0 time=165.750
+TYPE [ 2, 1 ]: no divisors
+TYPE [ 1, 1, 1 ]: no divisors
+TYPE [ 4 ]: 33 divisors (up to diamond), qlist=[ 11, 13, 17, 19, 23, 29 ]
+RESULT type=[ 4 ] total=33 survivors=0 time=4422.240
+TYPE [ 3, 1 ]: no divisors
+TYPE [ 2, 2 ]: no divisors
+TYPE [ 2, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1 ]: no divisors
+TYPE [ 5 ]: 108 divisors (up to diamond), qlist=[ 11, 13, 17, 19, 23, 29 ]
+PROGRESS type=[ 5 ] 100/108 survivors=0 time=15627.820
+RESULT type=[ 5 ] total=108 survivors=0 time=15846.130
+TYPE [ 4, 1 ]: no divisors
+TYPE [ 3, 2 ]: no divisors
+TYPE [ 3, 1, 1 ]: no divisors
+TYPE [ 2, 2, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1 ]: no divisors
+SUMMARY N=42 M=1 p=5 D=5 shard=0/1 total_survivors=0 time=15846.150
+SIEVE_DONE

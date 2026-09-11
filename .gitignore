@@ -1,0 +1,10 @@
+# editors / notebooks
+.idea
+.ipynb_checkpoints
+
+# magma signature caches and scratch
+*.sig
+scratch
+
+# Python bytecode caches
+__pycache__/

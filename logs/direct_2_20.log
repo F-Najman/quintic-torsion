@@ -1,0 +1,23 @@
+SETUP X_1(2,20): genus 9, 16 Galois orbits of cusps over Q (degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 4, 4, 4, 4 ]), time 13.280
+PRIME 3: Cl(X_Fp) invariants [ 8, 120, 120, 0 ], image of ClCusp_Q: [ 4, 60, 120 ], time 20.010
+PRIME 3: places of degree 1..5: [ 8, 4, 0, 44, 48 ]
+PRIME 3: type [ 5 ] done, 48 divisors so far, 48 distinct classes, time 20.050
+PRIME 3: type [ 4, 1 ] done, 400 divisors so far, 400 distinct classes, time 20.050
+PRIME 3: type [ 2, 2, 1 ] done, 480 divisors so far, 480 distinct classes, time 20.050
+PRIME 3: type [ 2, 1, 1, 1 ] done, 960 divisors so far, 960 distinct classes, time 20.050
+PRIME 3: type [ 1, 1, 1, 1, 1 ] done, 1752 divisors so far, 1752 distinct classes, time 20.060
+PRIME 7: Cl(X_Fp) invariants [ 120, 600, 600, 0 ], image of ClCusp_Q: [ 4, 60, 120 ], time 65.500
+PRIME 7: places of degree 1..5: [ 8, 20, 128, 708, 3216 ]
+PRIME 7: type [ 5 ] done, 3216 divisors so far, 3216 distinct classes, time 436.210
+PRIME 7: type [ 4, 1 ] done, 8880 divisors so far, 8880 distinct classes, time 436.360
+PRIME 7: type [ 3, 2 ] done, 11440 divisors so far, 11440 distinct classes, time 436.370
+PRIME 7: type [ 3, 1, 1 ] done, 16048 divisors so far, 16048 distinct classes, time 436.380
+PRIME 7: type [ 2, 2, 1 ] done, 17728 divisors so far, 17728 distinct classes, time 436.380
+PRIME 7: type [ 2, 1, 1, 1 ] done, 20128 divisors so far, 20128 distinct classes, time 436.390
+PRIME 7: type [ 1, 1, 1, 1, 1 ] done, 20920 divisors so far, 20920 distinct classes, time 436.420
+J(Q) = ClCusp_Q parametrised: order 28800, invariants [ 4, 60, 120 ] (compare DEHMZ Table 3)
+CUSPIDAL: 1384 effective rational cuspidal divisors of degree 5 in 1384 distinct classes; all are candidates: true
+CANDIDATES_NONCUSPIDAL: 0 candidate classes remain after removing the cuspidal classes (these are lifted to Q)
+CANDIDATES: 1384 classes of J(Q) whose reduction is the class of an effective degree-5 divisor for all p in [ 3, 7 ], time 436.650
+RESULT X_1(2,20) D=5: 1384 candidate classes; 0 false positives (no effective divisor), 0 pencils, 0 all-cuspidal effective divisors, 0 effective divisors with a non-cuspidal component; time 436.690
+DIRECT_DONE

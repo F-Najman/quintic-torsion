@@ -1,0 +1,7 @@
+COUNT curve=X_1(1,30) p=7
+YCOUNT d=1  #Y(F_{7^1}) = 0   time=0.000
+YCOUNT d=2  #Y(F_{7^2}) = 40   time=0.020
+YCOUNT d=3  #Y(F_{7^3}) = 384   time=0.170
+YCOUNT d=4  #Y(F_{7^4}) = 2448   time=3.840
+YCOUNT d=5  #Y(F_{7^5}) = 15840   time=17.470
+COUNT_DONE

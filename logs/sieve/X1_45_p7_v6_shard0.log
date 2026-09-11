@@ -1,0 +1,37 @@
+SETUP N=45 M=1 p=7 genus=41 time=146.400
+CUSPS number=30 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 4, 4, 4, 4, 4, 12 ]
+CUSPFIELDS orbits over Q (degree, F_p-degree): [ <12, 12>, <8, 4>, <6, 3>, <6, 3>, <4, 4>, <4, 4>, <4, 4>, <2, 1>, <2, 1>, <2, 1>, <2, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1> ] ; predicted F_p cusp degrees match model: true
+CC complement degree <= 1: q mod 45 in [ 1, 4, 7, 13, 16, 19, 22, 28, 31, 34, 37, 43 ] ; usable q from list: [ 13, 19 ]
+CC complement degree <= 2: q mod 45 in [ 1, 4, 7, 13, 16, 19, 22, 28, 31, 34, 37, 43 ] ; usable q from list: [ 13, 19 ]
+CC complement degree <= 3: q mod 45 in [ 1, 4, 7, 13, 16, 19, 22, 28, 31, 34, 37, 43 ] ; usable q from list: [ 13, 19 ]
+CC complement degree <= 4: q mod 45 in [ 1, 4, 7, 13, 16, 19, 22, 28, 31, 34, 37, 43 ] ; usable q from list: [ 13, 19 ]
+QLIST all (used when there is no cuspidal part): [ 11, 13, 17, 19 ]
+DEGREES with points of the required type over F_p^d (d=1..5): [ false, true, true, true, true ]  time=353.410
+NONCUSP counts deg 1..5: [ 0, 24, 120, 348, 3276 ]  time=485.290
+REPS up to diamond: [ 0, 2, 10, 30, 273 ]  time=513.670
+TYPE [ 1 ]: no divisors
+TYPE [ 2 ]: 0 divisors (up to diamond, shard 0 of 6), qlist=[ 13, 19 ]
+RESULT type=[ 2 ] total=0 survivors=0 time=513.700
+TYPE [ 1, 1 ]: no divisors
+TYPE [ 3 ]: 1 divisors (up to diamond, shard 0 of 6), qlist=[ 13, 19 ]
+RESULT type=[ 3 ] total=1 survivors=0 time=573.860
+TYPE [ 2, 1 ]: no divisors
+TYPE [ 1, 1, 1 ]: no divisors
+TYPE [ 4 ]: 5 divisors (up to diamond, shard 0 of 6), qlist=[ 13, 19 ]
+RESULT type=[ 4 ] total=5 survivors=0 time=1087.040
+TYPE [ 3, 1 ]: no divisors
+TYPE [ 2, 2 ]: 8 divisors (up to diamond, shard 0 of 6), qlist=[ 13, 19 ]
+RESULT type=[ 2, 2 ] total=8 survivors=0 time=2173.340
+TYPE [ 2, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1 ]: no divisors
+TYPE [ 5 ]: 45 divisors (up to diamond, shard 0 of 6), qlist=[ 11, 13, 17, 19 ]
+RESULT type=[ 5 ] total=45 survivors=0 time=5009.780
+TYPE [ 4, 1 ]: no divisors
+TYPE [ 3, 2 ]: 40 divisors (up to diamond, shard 0 of 6), qlist=[ 11, 13, 17, 19 ]
+RESULT type=[ 3, 2 ] total=40 survivors=0 time=11001.600
+TYPE [ 3, 1, 1 ]: no divisors
+TYPE [ 2, 2, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1 ]: no divisors
+SUMMARY N=45 M=1 p=7 D=5 shard=0/6 total_survivors=0 time=11001.650
+SIEVE_DONE

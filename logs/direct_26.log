@@ -1,0 +1,17 @@
+SETUP X_1(26): 14 Galois orbits of cusps over Q, time 66.160
+PRIME 7: genus 10, Cl(X_Fp) invariants [ 9, 1197, 77805, 0 ], image of ClCusp_Q: [ 133, 1995 ], time 77.020
+PRIME 7: places of degree 1..5: [ 12, 42, 124, 603, 3312 ]
+PRIME 7: type [ 5 ] done, 3312 divisors so far, 3312 distinct classes, time 618.220
+PRIME 7: type [ 4, 1 ] done, 10548 divisors so far, 10548 distinct classes, time 697.810
+PRIME 7: type [ 3, 2 ] done, 15756 divisors so far, 15756 distinct classes, time 697.830
+PRIME 7: type [ 3, 1, 1 ] done, 25428 divisors so far, 25428 distinct classes, time 697.840
+PRIME 7: type [ 2, 2, 1 ] done, 36264 divisors so far, 36264 distinct classes, time 697.850
+PRIME 7: type [ 2, 1, 1, 1 ] done, 51552 divisors so far, 51552 distinct classes, time 697.870
+PRIME 7: type [ 1, 1, 1, 1, 1 ] done, 55920 divisors so far, 55920 distinct classes, time 697.920
+J(Q) = ClCusp_Q parametrised: order 265335, invariants [ 133, 1995 ] (DEHMZ table for comparison)
+CUSPIDAL: 4368 effective rational cuspidal divisors of degree 5 in 4368 distinct classes; all are candidates: true
+MATCHED_KNOWN: after removing the classes of the known points, 0 non-cuspidal candidate classes remain
+CANDIDATES_NONCUSPIDAL: 0 candidate classes remain after removing the cuspidal classes (these are lifted to Q)
+CANDIDATES: 4368 classes of J(Q) whose reduction is the class of an effective degree-5 divisor for all p in [ 7 ], time 698.310
+RESULT N=26 D=5: 4368 candidate classes; 0 with no effective divisor (false positives), 0 all-cuspidal effective divisors, 0 effective divisors with a non-cuspidal component; time 698.350
+DIRECT_DONE

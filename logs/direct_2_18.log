@@ -1,0 +1,52 @@
+SETUP X_1(2,18): genus 7, 15 Galois orbits of cusps over Q (degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 3 ]), time 1.050
+PRIME 5: Cl(X_Fp) invariants [ 6, 84, 252, 0 ], image of ClCusp_Q: [ 2, 42, 126 ], time 2.770
+PRIME 5: places of degree 1..5: [ 9, 3, 51, 153, 612 ]
+PRIME 5: type [ 5 ] done, 612 divisors so far, 612 distinct classes, time 11.150
+PRIME 5: type [ 4, 1 ] done, 1989 divisors so far, 1935 distinct classes, time 11.160
+PRIME 5: type [ 3, 2 ] done, 2142 divisors so far, 2088 distinct classes, time 11.160
+PRIME 5: type [ 3, 1, 1 ] done, 4437 divisors so far, 4383 distinct classes, time 11.160
+PRIME 5: type [ 2, 2, 1 ] done, 4491 divisors so far, 4437 distinct classes, time 11.160
+PRIME 5: type [ 2, 1, 1, 1 ] done, 4986 divisors so far, 4932 distinct classes, time 11.160
+PRIME 5: type [ 1, 1, 1, 1, 1 ] done, 6273 divisors so far, 6138 distinct classes, time 11.180
+J(Q) = ClCusp_Q parametrised: order 10584, invariants [ 2, 42, 126 ] (compare DEHMZ Table 3)
+CUSPIDAL: 1980 effective rational cuspidal divisors of degree 5 in 1926 distinct classes; all are candidates: true
+CANDIDATES_NONCUSPIDAL: 18 candidate classes remain after removing the cuspidal classes (these are lifted to Q)
+CANDIDATES: 1944 classes of J(Q) whose reduction is the class of an effective degree-5 divisor for all p in [ 5 ], time 11.210
+POINT class [ 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0, -1 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 1, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 0, -1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, -1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 0, 0, 0, 0, 0, -1, 0, 0, -1, 0, 0, 0, 1, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 0, 0, -1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 0, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, 1, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, -1 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 1, -1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, -1 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 1, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 1, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 0, 0, 0, 0, 1, -1, 0, -1, 0, 0, 0, 0, 0, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+POINT class [ 0, 1, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 1, 0 ]: support degrees [ 5 ], multiplicities [ 1 ], cuspidal flags [ false ]
+POINT   non-cuspidal component of degree 5: j min poly $.1^5 - 5358190504483/7077888*$.1^4 + 6142426326903216601/191102976*$.1^3 - 10637527089413694781373/31850496*$.1^2 + 20996209035044656887145021/15925248*$.1 - 344261640807789486734825140969/191102976
+RESULT X_1(2,18) D=5: 1944 candidate classes; 0 false positives (no effective divisor), 0 pencils, 0 all-cuspidal effective divisors, 18 effective divisors with a non-cuspidal component; time 254.980
+DIRECT_DONE

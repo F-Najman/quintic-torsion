@@ -1,0 +1,26 @@
+   n  a mod n  ord<a>    idx  k_3     b(n)   b>5  ord|5  d_CM
+  91        3       6   4032    7    5.713  True  False    24
+ 121        2      55   7260    8    9.001  True  False   110
+ 143       67      12  10080    8   12.497  True  False   120
+ 169        3      39  14196    7   20.114  True  False    52
+ 187      122      16  17280    8   21.423  True  False   160
+ 221        3      48  24192    7   34.277  True  False    96
+ 289        3     136  41616    7   58.965  True  False   136
+  95       11       3   4320    8    5.356  True  False    72
+ 119        3      48   6912    7    9.794  True  False    96
+ 125        3      50   7500    7   10.627  True  False    50
+ 133       64       3   8640    8   10.712  True  False    36
+ 209       34      18  21600    8   26.779  True  False   180
+ 247      144       3  30240    8   37.491  True  False    72
+ 323      101      18  51840    8   64.270  True  False   288
+ 361        3     171  64980    7   92.069  True  False   114
+
+all cases give a valid degree-5 conclusion: True
+
+Abramovich gon_C > (325/2^15)*idx  for n = 77, 85, 57, 63, 65:
+  n= 77  idx= 2880  bound=  28.564
+  n= 85  idx= 3456  bound=  34.277
+  n= 57  idx= 1440  bound=  14.282
+  n= 63  idx= 1728  bound=  17.139
+  n= 65  idx= 2016  bound=  19.995
+GLOBALTABLE_DONE

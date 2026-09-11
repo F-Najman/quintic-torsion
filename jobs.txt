@@ -1,0 +1,75 @@
+# One job per line: log file TAB command TAB closing marker [TAB expected result (ERE)]
+# Every command is run from the repository root and its output replaces the named log.
+# The parameters are those that produced the committed logs; do not change them.
+# verify_all.sh treats a job as successful only if the command exits 0 and the last
+# non-blank line is the marker (optionally followed by a space and details).
+# If a fourth column is present, the log must also match that extended regular expression.
+
+logs/analyze_28_3.log	magma -n -b N:=28 p:=3 SURV:=data/surv_28_3.txt analyze_survivors.m	ANALYZE_DONE
+logs/char_kernels_all.log	magma -n -b char_kernels_all.m	CHARKERNELS_DONE
+logs/check_places_count.log	magma -n -b check_places_count.m	PLACESCHECK_DONE all_consistent=true
+logs/counts/cnt_M1_N26_p7.log	magma -n -b N:=26 p:=7 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N28_p3.log	magma -n -b N:=28 p:=3 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N28_p5.log	magma -n -b N:=28 p:=5 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N30_p7.log	magma -n -b N:=30 p:=7 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N32_p3.log	magma -n -b N:=32 p:=3 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N33_p7.log	magma -n -b N:=33 p:=7 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N34_p3.log	magma -n -b N:=34 p:=3 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N38_p3.log	magma -n -b N:=38 p:=3 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N42_p5.log	magma -n -b N:=42 p:=5 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N45_p7.log	magma -n -b N:=45 p:=7 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N57_p5.log	magma -n -b N:=57 p:=5 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N63_p5.log	magma -n -b N:=63 p:=5 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M1_N65_p3.log	magma -n -b N:=65 p:=3 M:=1 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M2_N18_p5.log	magma -n -b N:=18 p:=5 M:=2 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M2_N20_p3.log	magma -n -b N:=20 p:=3 M:=2 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M2_N20_p7.log	magma -n -b N:=20 p:=7 M:=2 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M2_N22_p3.log	magma -n -b N:=22 p:=3 M:=2 count_Y1_points.m	COUNT_DONE
+logs/counts/cnt_M2_N24_p5.log	magma -n -b N:=24 p:=5 M:=2 count_Y1_points.m	COUNT_DONE
+logs/cuspgroup_check.log	magma -n -b cuspgroup_check.m	CUSPGROUP_DONE
+logs/direct_26.log	magma -n -b N:=26 Ps:=7 D:=5 MemGB:=12 direct_analysis.m	DIRECT_DONE
+logs/direct_28.log	magma -n -b N:=28 Ps:=3 D:=5 MemGB:=12 direct_analysis.m	DIRECT_DONE
+logs/direct_2_18.log	magma -n -b N:=18 Ps:=5 D:=5 MemGB:=12 direct_analysis_X11.m	DIRECT_DONE
+logs/direct_2_20.log	magma -n -b N:=20 Ps:=3,7 D:=5 MemGB:=12 direct_analysis_X11.m	DIRECT_DONE
+logs/direct_2_24.log	magma -n -b N:=24 Ps:=5 D:=5 MemGB:=16 direct_analysis_X11.m	DIRECT_DONE
+logs/direct_30.log	magma -n -b N:=30 Ps:=7 D:=5 MemGB:=20 direct_analysis.m	DIRECT_DONE
+logs/gl2_point_counts.log	magma -n -b gl2_point_counts.m	GL2_POINT_COUNTS_DONE all_agree=true
+logs/global_table.log	python3 global_table.py	GLOBALTABLE_DONE
+logs/group_list.log	python3 group_list.py	GROUPLIST_DONE
+logs/lmfdb_ranks.log	python3 lmfdb_ranks.py	RANKS_DONE OK
+logs/pencils_2_18.log	magma -n -b pencils_2_18.m	NO_DEGREE_FIVE_RATIONAL_FUNCTION_INDEPENDENTLY_VERIFIED
+logs/sieve/X1_26_p7.log	magma -n -b N:=26 p:=7 Qs:=3,5,11 D:=5 M:=1 MemGB:=20 hecke_sieve_deg5.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_28_p3.log	magma -n -b N:=28 p:=3 Qs:=5,11,13 D:=5 M:=1 MemGB:=20 hecke_sieve_deg5.m	SIEVE_DONE	^SUMMARY .* total_survivors=5([[:space:]]|$)
+logs/sieve/X1_2_22_p3.log	magma -n -b N:=22 p:=3 Qs:=5,7,13 D:=5 M:=2 MemGB:=20 hecke_sieve_deg5.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_32_p3.log	magma -n -b N:=32 p:=3 Qs:=5,7,11,13 D:=5 M:=1 MemGB:=20 hecke_sieve_deg5.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_33_p7.log	magma -n -b N:=33 p:=7 Qs:=5,13,19,37,43,67 D:=5 M:=1 MemGB:=20 hecke_sieve_deg5.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_34_p3.log	magma -n -b N:=34 p:=3 Qs:=5,7,11,13 D:=5 M:=1 MemGB:=20 hecke_sieve_deg5.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_38_p3.log	magma -n -b N:=38 p:=3 Qs:=5,7,11,13 D:=5 M:=1 MemGB:=20 hecke_sieve_deg5.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_42_p5.log	magma -n -b N:=42 p:=5 Qs:=11,13,17,19,23,29 D:=5 M:=1 MemGB:=20 hecke_sieve_deg5.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_45_p7_v6_shard0.log	magma -n -b N:=45 p:=7 Qs:=11,13,17,19 D:=5 M:=1 MemGB:=12 Shard:=0 NShard:=6 hecke_sieve_deg5_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_45_p7_v6_shard1.log	magma -n -b N:=45 p:=7 Qs:=11,13,17,19 D:=5 M:=1 MemGB:=12 Shard:=1 NShard:=6 hecke_sieve_deg5_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_45_p7_v6_shard2.log	magma -n -b N:=45 p:=7 Qs:=11,13,17,19 D:=5 M:=1 MemGB:=12 Shard:=2 NShard:=6 hecke_sieve_deg5_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_45_p7_v6_shard3.log	magma -n -b N:=45 p:=7 Qs:=11,13,17,19 D:=5 M:=1 MemGB:=12 Shard:=3 NShard:=6 hecke_sieve_deg5_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_45_p7_v6_shard4.log	magma -n -b N:=45 p:=7 Qs:=11,13,17,19 D:=5 M:=1 MemGB:=12 Shard:=4 NShard:=6 hecke_sieve_deg5_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_45_p7_v6_shard5.log	magma -n -b N:=45 p:=7 Qs:=11,13,17,19 D:=5 M:=1 MemGB:=12 Shard:=5 NShard:=6 hecke_sieve_deg5_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_57_p5_v6_shard0.log	magma -n -b N:=57 p:=5 Qs:=7,11,13 As:=2,4 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=0 NShard:=6 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_57_p5_v6_shard1.log	magma -n -b N:=57 p:=5 Qs:=7,11,13 As:=2,4 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=1 NShard:=6 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_57_p5_v6_shard2.log	magma -n -b N:=57 p:=5 Qs:=7,11,13 As:=2,4 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=2 NShard:=6 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_57_p5_v6_shard3.log	magma -n -b N:=57 p:=5 Qs:=7,11,13 As:=2,4 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=3 NShard:=6 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_57_p5_v6_shard4.log	magma -n -b N:=57 p:=5 Qs:=7,11,13 As:=2,4 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=4 NShard:=6 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_57_p5_v6_shard5.log	magma -n -b N:=57 p:=5 Qs:=7,11,13 As:=2,4 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=5 NShard:=6 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_63_p5_v6b_shard0.log	magma -n -b N:=63 p:=5 Qs:=11,13,17 As:=5 Hs:=8 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=0 NShard:=8 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_63_p5_v6b_shard1.log	magma -n -b N:=63 p:=5 Qs:=11,13,17 As:=5 Hs:=8 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=1 NShard:=8 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_63_p5_v6b_shard2.log	magma -n -b N:=63 p:=5 Qs:=11,13,17 As:=5 Hs:=8 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=2 NShard:=8 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_63_p5_v6b_shard3.log	magma -n -b N:=63 p:=5 Qs:=11,13,17 As:=5 Hs:=8 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=3 NShard:=8 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_63_p5_v6b_shard4.log	magma -n -b N:=63 p:=5 Qs:=11,13,17 As:=5 Hs:=8 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=4 NShard:=8 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_63_p5_v6b_shard5.log	magma -n -b N:=63 p:=5 Qs:=11,13,17 As:=5 Hs:=8 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=5 NShard:=8 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_63_p5_v6b_shard6.log	magma -n -b N:=63 p:=5 Qs:=11,13,17 As:=5 Hs:=8 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=6 NShard:=8 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_63_p5_v6b_shard7.log	magma -n -b N:=63 p:=5 Qs:=11,13,17 As:=5 Hs:=8 D:=5 M:=1 SkipCusps:=1 MemGB:=20 Shard:=7 NShard:=8 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_65_p3_v6_shard0.log	magma -n -b N:=65 p:=3 Qs:=7,11 As:=2,3 D:=5 M:=1 SkipCusps:=1 MemGB:=24 Shard:=0 NShard:=3 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_65_p3_v6_shard1.log	magma -n -b N:=65 p:=3 Qs:=7,11 As:=2,3 D:=5 M:=1 SkipCusps:=1 MemGB:=24 Shard:=1 NShard:=3 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/sieve/X1_65_p3_v6_shard2.log	magma -n -b N:=65 p:=3 Qs:=7,11 As:=2,3 D:=5 M:=1 SkipCusps:=1 MemGB:=24 Shard:=2 NShard:=3 hecke_sieve_twisted_v6.m	SIEVE_DONE	^SUMMARY .* total_survivors=0([[:space:]]|$)
+logs/test_fast_hecke.log	magma -n -b test_fast_hecke.m	TESTFAST_DONE
+logs/test_fast_orbits.log	magma -n -b test_fast_orbits.m	TESTORB_DONE
+logs/torsion_over_Fq.log	magma -n -b Ns:=26,27,28,30,32,33,34,35,38,39,42,45,50,57,63,65,77,85,18,20,22,24,36,40,44,48 Ps:=2,3,5,7,11,13 K:=5 torsion_over_Fq.m	DONE
+logs/verify_sporadic_curves.log	magma -n -b verify_sporadic_curves.m	ALL CHECKS PASSED

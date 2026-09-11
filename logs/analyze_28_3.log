@@ -1,0 +1,12 @@
+SETUP X_1(28) over F_3, genus 10
+SURVIVORS reconstructed: 5, degrees [ 4, 5, 5, 5, 5 ]
+KNOWN point 1: prime above 3 of residue degree 5 -> place of degree 5
+MATCH survivor 4 = <11> * reduction of known point 1
+MATCHED 1 of 5 survivors
+G = image of ClCusp_Q in Cl(X_Fp): invariants [ 2, 4, 12, 936 ] (expected order of J(Q)_tors from DEHMZ table)
+Q-orbits matched to F_p-orbits by cusp signature: 15 orbits
+UNMATCHED survivor 1 (degree 4): 9 cuspidal complements, 0 give a class in G
+UNMATCHED survivor 2 (degree 5): 1 cuspidal complements, 0 give a class in G
+UNMATCHED survivor 3 (degree 5): 1 cuspidal complements, 0 give a class in G
+UNMATCHED survivor 5 (degree 5): 1 cuspidal complements, 0 give a class in G
+ANALYZE_DONE

@@ -1,0 +1,22 @@
+TESTFAST N=26 p=7 deg 2 q=3: 12/12 agree; fast 0.070 s, mdmagma 0.160 s
+TESTFAST N=26 p=7 deg 2 q=5: 12/12 agree; fast 0.060 s, mdmagma 0.570 s
+TESTFAST N=26 p=7 deg 3 q=3: 12/12 agree; fast 0.040 s, mdmagma 0.170 s
+TESTFAST N=26 p=7 deg 3 q=5: 12/12 agree; fast 0.080 s, mdmagma 1.440 s
+TESTFAST N=26 p=7 deg 4 q=3: 12/12 agree; fast 0.060 s, mdmagma 0.330 s
+TESTFAST N=26 p=7 deg 4 q=5: 12/12 agree; fast 0.090 s, mdmagma 1.030 s
+TESTFAST N=28 p=5 deg 2 q=3: 12/12 agree; fast 0.040 s, mdmagma 0.110 s
+TESTFAST N=28 p=5 deg 2 q=11: 12/12 agree; fast 0.120 s, mdmagma 1.220 s
+TESTFAST N=28 p=5 deg 3 q=3: 12/12 agree; fast 0.040 s, mdmagma 0.830 s
+TESTFAST N=28 p=5 deg 3 q=11: 12/12 agree; fast 0.110 s, mdmagma 2.620 s
+TESTFAST N=28 p=5 deg 4 q=3: 12/12 agree; fast 0.060 s, mdmagma 0.690 s
+TESTFAST N=28 p=5 deg 4 q=11: 12/12 agree; fast 2.500 s, mdmagma 421.810 s
+TESTFAST N=30 p=7 deg 2 q=11: 12/12 agree; fast 0.120 s, mdmagma 1.330 s
+TESTFAST N=30 p=7 deg 2 q=13: 12/12 agree; fast 1.610 s, mdmagma 204.080 s
+TESTFAST N=30 p=7 deg 3 q=11: 12/12 agree; fast 3.050 s, mdmagma 782.810 s
+TESTFAST N=30 p=7 deg 3 q=13: 12/12 agree; fast 0.980 s, mdmagma 250.520 s
+TESTFAST N=30 p=7 deg 4 q=11: 12/12 agree; fast 0.850 s, mdmagma 67.800 s
+TESTFAST N=30 p=7 deg 4 q=13: 12/12 agree; fast 1.350 s, mdmagma 337.280 s
+TESTFAST X1(45)/F7 place 1: T_11 fast 7.340 s (degree 60)
+TESTFAST X1(45)/F7 place 50: T_11 fast 3.910 s (degree 60)
+TESTFAST X1(45)/F7 place 1: T_11 mdmagma 94.960 s, agree=true
+TESTFAST_DONE 2361.010
